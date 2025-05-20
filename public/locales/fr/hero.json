@@ -1,0 +1,22 @@
+{
+  "hero": {
+    "banner_1": {
+      "title": "Régalez-vous avec Nos Plats Signatures",
+      "subTitle": "Découvrez l'Excellence Culinaire",
+      "description": "Des steaks grésillants aux pâtes savoureuses, nos experts culinaires préparent des plats qui raviront vos papilles. Explorez un monde de saveurs exquises à chaque bouchée délicieuse",
+      "banner_button_title": "Explorer le Menu"
+    },
+    "banner_2": {
+      "title": "Atmosphère Relaxante",
+      "subTitle": "Détendez-vous avec Style",
+      "description": "Échappez à l'agitation et immergez-vous dans notre ambiance accueillante. Que ce soit pour un dîner romantique ou une rencontre décontractée entre amis, notre restaurant offre le cadre idéal.",
+      "banner_button_title": "Réserver une Table"
+    },
+    "banner_3": {
+      "title": "Organisez Votre Prochain Événement Chez Nous",
+      "subTitle": "Événements Spéciaux, Moments Mémorables",
+      "description": "Célébrez les anniversaires, les anniversaires de mariage et plus encore avec style grâce à nos forfaits événementiels personnalisables. Notre équipe dévouée veille à ce que chaque détail soit parfait, vous laissant libre de profiter du moment.",
+      "banner_button_title": "Planifier Votre Événement"
+    }
+  }
+}

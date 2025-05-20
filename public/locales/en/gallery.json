@@ -1,0 +1,46 @@
+{
+  "gallery_title": "Delightful Experience",
+  "gallery_button_title": "details",
+  "galleryList": {
+    "gallery_1": {
+      "image_description": "gallery image 1",
+      "title": "Grilled Angus Ribeye",
+      "description": "Tender and juicy Angus ribeye, grilled to perfection and served with garlic mashed potatoes and seasonal vegetables. Indulge in the rich flavor of prime beef, complemented by our house-made steak sauce."
+    },
+    "gallery_2": {
+      "image_description": "gallery image 2",
+      "title": "Seafood Linguine",
+      "description": "A seafood lover's delight! Our linguine pasta is tossed with a medley of shrimp, scallops, and clams in a savory garlic white wine sauce. Finished with fresh herbs and Parmesan cheese, it's a taste of the sea in every bite."
+    },
+    "gallery_3": {
+      "image_description": "gallery image 3",
+      "title": "Vegetarian Stuffed Bell Pepper",
+      "description": "A vibrant and flavorful dish featuring roasted bell peppers stuffed with quinoa, black beans, corn, and spices. Topped with melted cheese and served with cilantro lime rice, it's a satisfying option for vegetarians and meat-lovers alike."
+    },
+    "gallery_4": {
+      "image_description": "gallery image 4",
+      "title": "Pan-Seared Salmon",
+      "description": "Savor the delicate flavors of our pan-seared salmon, served with a tangy lemon dill sauce. Accompanied by roasted asparagus and wild rice pilaf, this dish is a light and refreshing choice for seafood enthusiasts."
+    },
+    "gallery_5": {
+      "image_description": "gallery image 5",
+      "title": "Classic Beef Burger",
+      "description": "Sink your teeth into our classic beef burger, made with a juicy beef patty, lettuce, tomato, onion, and pickles on a toasted brioche bun. Served with crispy fries on the side, it's the ultimate comfort food indulgence."
+    },
+    "gallery_6": {
+      "image_description": "gallery image 6",
+      "title": "Decadent Chocolate Lava Cake",
+      "description": "Save room for dessert and indulge in our decadent chocolate lava cake. Warm and gooey on the inside, with a crispy exterior, this indulgent treat is served with a scoop of vanilla ice cream, creating the perfect sweet ending to your meal."
+    },
+    "gallery_7": {
+      "image_description": "gallery image 7",
+      "title": "Decadent Chocolate Lava Cake",
+      "description": "Save room for dessert and indulge in our decadent chocolate lava cake. Warm and gooey on the inside, with a crispy exterior, this indulgent treat is served with a scoop of vanilla ice cream, creating the perfect sweet ending to your meal."
+    },
+    "gallery_8": {
+      "image_description": "gallery image 8",
+      "title": "Pan-Seared Salmon",
+      "description": "Save room for dessert and indulge in our decadent chocolate lava cake. Warm and gooey on the inside, with a crispy exterior, this indulgent treat is served with a scoop of vanilla ice cream, creating the perfect sweet ending to your meal."
+    }
+  }
+}

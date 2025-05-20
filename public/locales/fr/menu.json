@@ -1,0 +1,87 @@
+{
+  "menu": {
+    "menu_title": "AMAZING AND DELICIOUS",
+
+    "menu_drinks": {
+      "title": "boissons",
+      "drink_1": {
+        "imageDescription": "description de l'image de la boisson",
+        "title": "Jus d'orange"
+      },
+      "drink_2": {
+        "imageDescription": "description de l'image de la boisson",
+        "title": "Jus de pomme"
+      },
+      "drink_3": {
+        "imageDescription": "description de l'image de la boisson",
+        "title": "Jus de canneberge"
+      },
+      "drink_4": {
+        "imageDescription": "description de l'image de la boisson",
+        "title": "Jus d'ananas"
+      },
+      "drink_5": {
+        "imageDescription": "description de l'image de la boisson",
+        "title": "Jus de pamplemousse"
+      },
+      "drink_6": {
+        "imageDescription": "description de l'image de la boisson",
+        "title": "Smoothie aux baies mélangées"
+      }
+    },
+    "menu_mails": {
+      "title": "plats",
+      "mail_1": {
+        "imageDescription": "description de l'image du plat",
+        "title": "Filet de saumon grillé"
+      },
+      "mail_2": {
+        "imageDescription": "description de l'image du plat",
+        "title": "Poulet parmesan"
+      },
+      "mail_3": {
+        "imageDescription": "description de l'image du plat",
+        "title": "Steak de filet de bœuf"
+      },
+      "mail_4": {
+        "imageDescription": "description de l'image du plat",
+        "title": "Sauté de légumes"
+      },
+      "mail_5": {
+        "imageDescription": "description de l'image du plat",
+        "title": "Pâtes aux crevettes scampi"
+      },
+      "mail_6": {
+        "imageDescription": "description de l'image du plat",
+        "title": "Risotto aux champignons"
+      }
+    },
+    "menu_desserts": {
+      "title": "desserts",
+      "dessert_1": {
+        "imageDescription": "description de l'image du dessert",
+        "title": "Cheesecake New York"
+      },
+      "dessert_2": {
+        "imageDescription": "description de l'image du dessert",
+        "title": "Brownie sundae au chocolat"
+      },
+      "dessert_3": {
+        "imageDescription": "description de l'image du dessert",
+        "title": "Tiramisu"
+      },
+      "dessert_4": {
+        "imageDescription": "description de l'image du dessert",
+        "title": "Tarte au citron vert"
+      },
+      "dessert_5": {
+        "imageDescription": "description de l'image du dessert",
+        "title": "Crème brûlée"
+      },
+      "dessert_6": {
+        "imageDescription": "description de l'image du dessert",
+        "title": "Tarte aux fruits"
+      }
+    }
+  }
+}

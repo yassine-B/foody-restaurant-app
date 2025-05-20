@@ -1,0 +1,22 @@
+{
+  "hero": {
+    "banner_1": {
+      "title": "Indulge in Our Signature Dishes",
+      "subTitle": "Experience Culinary Excellence",
+      "description": "From sizzling steaks to mouthwatering pastas, our culinary experts craft dishes that tantalize your taste buds. Explore a world of exquisite flavors with every delightful bite",
+      "banner_button_title": "Explore Menu"
+    },
+    "banner_2": {
+      "title": "Relaxing Atmosphere",
+      "subTitle": "Unwind in Style",
+      "description": "Escape the hustle and bustle and immerse yourself in our inviting ambiance. Whether it's a romantic dinner or a casual catch-up with friends, our restaurant provides the perfect setting.",
+      "banner_button_title": "Reserve a Table"
+    },
+    "banner_3": {
+      "title": "Host Your Next Event With Us",
+      "subTitle": "Special Events, Memorable Moments",
+      "description": "Celebrate birthdays, anniversaries, and more in style with our customizable event packages. Our dedicated team ensures every detail is perfect, leaving you free to enjoy the moment.",
+      "banner_button_title": "Plan Your Event"
+    }
+  }
+}

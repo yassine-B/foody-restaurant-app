@@ -1,0 +1,87 @@
+{
+  "menu": {
+    "menu_title": "AMAZING AND DELICIOUS",
+
+    "menu_drinks": {
+      "title": "drinks",
+      "drink_1": {
+        "imageDescription": "drink image description",
+        "title": "Orange Juice"
+      },
+      "drink_2": {
+        "imageDescription": "drink image description",
+        "title": "Apple Juice"
+      },
+      "drink_3": {
+        "imageDescription": "drink image description",
+        "title": "Cranberry Juice"
+      },
+      "drink_4": {
+        "imageDescription": "drink image description",
+        "title": "Pineapple Juice"
+      },
+      "drink_5": {
+        "imageDescription": "drink image description",
+        "title": "Grapefruit Juice"
+      },
+      "drink_6": {
+        "imageDescription": "drink image description",
+        "title": "Mixed Berry Smoothie"
+      }
+    },
+    "menu_mails": {
+      "title": "mails",
+      "mail_1": {
+        "imageDescription": "mail image description",
+        "title": "Grilled Salmon Fillet"
+      },
+      "mail_2": {
+        "imageDescription": "mail image description",
+        "title": "Chicken Parmesan"
+      },
+      "mail_3": {
+        "imageDescription": "mail image description",
+        "title": "Beef Tenderloin Steak"
+      },
+      "mail_4": {
+        "imageDescription": "mail image description",
+        "title": "Vegetable Stir-Fry"
+      },
+      "mail_5": {
+        "imageDescription": "mail image description",
+        "title": "Shrimp Scampi Pasta"
+      },
+      "mail_6": {
+        "imageDescription": "mail image description",
+        "title": "Mushroom Risotto"
+      }
+    },
+    "menu_desserts": {
+      "title": "desserts",
+      "dessert_1": {
+        "imageDescription": "dessert image description",
+        "title": "New York Cheesecake"
+      },
+      "dessert_2": {
+        "imageDescription": "dessert image description",
+        "title": "Chocolate Brownie Sundae"
+      },
+      "dessert_3": {
+        "imageDescription": "dessert image description",
+        "title": "Tiramisu"
+      },
+      "dessert_4": {
+        "imageDescription": "dessert image description",
+        "title": "Key Lime Pie"
+      },
+      "dessert_5": {
+        "imageDescription": "dessert image description",
+        "title": "Crème Brûlée"
+      },
+      "dessert_6": {
+        "imageDescription": "dessert image description",
+        "title": "Fruit Tart"
+      }
+    }
+  }
+}

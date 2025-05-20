@@ -1,0 +1,113 @@
+@font-face {
+  font-family: PlayfairDisplay-Italic;
+  src: url('../../public/Fonts/PlayfairDisplay-Italic.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url('../../public/Fonts/OpenSans-Regular.ttf') format('truetype');
+  font-weight: 400;
+}
+
+/* Light Theme Colors */
+:root {
+  --primary-color: #e6e0b0;
+  --secondary-color: #d1cfa5;
+  --accent-color: #5a5a3b;
+  --background-color: #fffdd0;
+  --text-color: #333333;
+
+  --scrollbar-track: #333333;
+  --scrollbar-thumb: #5a5a3b;
+}
+
+/* Dark Theme Colors */
+html.dark {
+  --accent-color: #a6a083;
+  --text-color: #fffdd0;
+  --background-color: #333333;
+
+  --scrollbar-track: #d1cfa5;
+  --scrollbar-thumb: #5a5a3b;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: var(--background-color);
+}
+
+p {
+  font-family: Open Sans, sans-serif;
+}
+h1 {
+  font-family: PlayfairDisplay-Italic, cursive;
+}
+
+/* scrollbar styles */
+
+/* WebKit (Chrome, Safari) */
+body::-webkit-scrollbar,
+.scrollbar::-webkit-scrollbar {
+  width: 8px;
+}
+body::-webkit-scrollbar-track,
+.scrollbar::-webkit-scrollbar-track {
+  background: var(--scrollbar-track);
+}
+body::-webkit-scrollbar-thumb,
+.scrollbar::-webkit-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+  border-radius: 4px;
+  /* rounded corners for the thumb */
+}
+
+/* change the color of the thumb on hover */
+body::-webkit-scrollbar-thumb:hover,
+.scrollbar::-webkit-scrollbar-thumb:hover {
+  background: var(--scrollbar-thumb);
+  opacity: 0.8;
+}
+
+/* change the color of the thumb when dragging */
+body::-webkit-scrollbar-thumb:active,
+.scrollbar::-webkit-scrollbar-thumb:active {
+  background: var(--scrollbar-thumb);
+}
+
+body::-moz-scrollbar-thumb,
+.scrollbar::-moz-scrollbar-thumb {
+  background: var(--scrollbar-thumb);
+}
+
+/* change the color of the thumb on hover in Firefox */
+body::-moz-scrollbar-thumb:hover,
+.scrollbar::-moz-scrollbar-thumb:hover {
+  background: var(--scrollbar-thumb);
+  opacity: 0.8;
+}
+
+/* change the color of the thumb when dragging in Firefox */
+body::-moz-scrollbar-thumb:active,
+.scrollbar::-moz-scrollbar-thumb:active {
+  background: var(--scrollbar-thumb);
+}
+/* tailwind css styles */
+.transition-item {
+  @apply transition-all ease-in duration-200;
+}
+.heroBackground {
+  background: url('../../public/assets/images/bg-hero.jpg');
+  @apply bg-top bg-cover object-cover bg-no-repeat;
+}
+.offerBackground {
+  background: url('../../public/assets/images/bg-hero.jpg');
+  @apply bg-top bg-cover object-cover bg-no-repeat;
+}

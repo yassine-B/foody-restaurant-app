@@ -1,0 +1,11 @@
+{
+  "header_button_title": "table booking",
+  "header_navigation": {
+    "home": "home",
+    "about": "about",
+    "offers": "offers",
+    "menu": "menu",
+    "gallery": "gallery",
+    "contact": "contact"
+  }
+}

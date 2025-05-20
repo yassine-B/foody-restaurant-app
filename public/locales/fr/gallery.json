@@ -1,0 +1,46 @@
+{
+  "gallery_title": "Expérience Délectable",
+  "gallery_button_title": "détails",
+  "galleryList": {
+    "gallery_1": {
+      "image_description": "image de la galerie 1",
+      "title": "Côte de bœuf Angus grillée",
+      "description": "Côte de bœuf Angus tendre et juteuse, grillée à la perfection et servie avec une purée de pommes de terre à l'ail et des légumes de saison. Savourez la riche saveur du bœuf de premier choix, accompagnée de notre sauce maison pour steak."
+    },
+    "gallery_2": {
+      "image_description": "image de la galerie 2",
+      "title": "Linguine aux fruits de mer",
+      "description": "Un délice pour les amateurs de fruits de mer ! Nos pâtes linguine sont mélangées avec un assortiment de crevettes, de pétoncles et de palourdes dans une savoureuse sauce au vin blanc et à l'ail. Agrémenté d'herbes fraîches et de fromage Parmesan, c'est un goût de la mer à chaque bouchée."
+    },
+    "gallery_3": {
+      "image_description": "image de la galerie 3",
+      "title": "Poivron farci végétarien",
+      "description": "Un plat vibrant et savoureux mettant en vedette des poivrons rôtis farcis de quinoa, de haricots noirs, de maïs et d'épices. Garni de fromage fondu et servi avec du riz au citron vert et à la coriandre, c'est une option satisfaisante pour les végétariens et les amateurs de viande."
+    },
+    "gallery_4": {
+      "image_description": "image de la galerie 4",
+      "title": "Saumon poêlé",
+      "description": "Savourez les délicats arômes de notre saumon poêlé, servi avec une sauce citronnée à l'aneth. Accompagné d'asperges rôties et d'un pilaf de riz sauvage, ce plat est un choix léger et rafraîchissant pour les amateurs de fruits de mer."
+    },
+    "gallery_5": {
+      "image_description": "image de la galerie 5",
+      "title": "Burger de bœuf classique",
+      "description": "Croquez dans notre burger de bœuf classique, préparé avec un steak haché juteux, de la laitue, de la tomate, de l'oignon et des cornichons sur un petit pain brioché grillé. Servi avec des frites croustillantes, c'est le confort ultime."
+    },
+    "gallery_6": {
+      "image_description": "image de la galerie 6",
+      "title": "Gâteau au chocolat fondant",
+      "description": "Gardez de la place pour le dessert et régalez-vous avec notre gâteau au chocolat fondant. Chaud et coulant à l'intérieur, avec un extérieur croustillant, ce délice est servi avec une boule de glace à la vanille, créant la fin sucrée parfaite à votre repas."
+    },
+    "gallery_7": {
+      "image_description": "image de la galerie 7",
+      "title": "Gâteau au chocolat fondant",
+      "description": "Gardez de la place pour le dessert et régalez-vous avec notre gâteau au chocolat fondant. Chaud et coulant à l'intérieur, avec un extérieur croustillant, ce délice est servi avec une boule de glace à la vanille, créant la fin sucrée parfaite à votre repas."
+    },
+    "gallery_8": {
+      "image_description": "image de la galerie 8",
+      "title": "Saumon poêlé",
+      "description": "Gardez de la place pour le dessert et régalez-vous avec notre gâteau au chocolat fondant. Chaud et coulant à l'intérieur, avec un extérieur croustillant, ce délice est servi avec une boule de glace à la vanille, créant la fin sucrée parfaite à votre repas."
+    }
+  }
+}

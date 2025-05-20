@@ -1,0 +1,11 @@
+{
+  "header_button_title": "réservation de table",
+  "header_navigation": {
+    "home": "accueil",
+    "about": "Àpropos",
+    "offers": "offers",
+    "menu": "menu",
+    "gallery": "galerie",
+    "contact": "contact"
+  }
+}

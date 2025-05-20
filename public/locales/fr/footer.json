@@ -1,0 +1,47 @@
+{
+  "footer": {
+    "feedback_form": {
+      "feedback_title": "Formulaire de Feedback",
+      "feedback_button_title": "Envoyer",
+      "inputs": {
+        "username": {
+          "placeholder": "Nom",
+          "required": "Veuillez entrer votre nom.",
+          "maxLength": "Le nom ne peut pas dépasser 50 caractères."
+        },
+        "email": {
+          "placeholder": "Email",
+          "required": "Veuillez entrer une adresse email valide.",
+          "pattern": "Veuillez entrer une adresse email valide."
+        },
+        "phone": {
+          "placeholder": "Téléphone",
+          "required": "Veuillez entrer votre numéro de téléphone.",
+          "pattern": "Le numéro de téléphone ne peut contenir que des chiffres.",
+          "minLength": "Le numéro de téléphone doit comporter au moins 6 chiffres.",
+          "maxLength": "Le numéro de téléphone ne peut pas dépasser 15 chiffres."
+        },
+        "message": {
+          "placeholder": "Message",
+          "required": "Veuillez entrer votre message.",
+          "maxLength": "Le message ne peut pas dépasser 200 caractères."
+        }
+      }
+    },
+    "working_hours": {
+      "title": "Heures d'ouverture",
+      "part_1": "Lundi - Jeudi: 11h00 - 22h00",
+      "part_2": "Vendredi - Samedi: 11h00 - 23h00",
+      "part_3": "Dimanche: 12h00 - 21h00"
+    },
+    "note": {
+      "title": "Note",
+      "description": "Nous sommes ouverts tous les jours pour vous servir des repas délicieux et vous offrir des expériences inoubliables."
+    },
+    "contact_us": {
+      "title": "Contactez-nous",
+      "description": "N'hésitez pas à nous contacter pour toute question, réservation ou demande spéciale. Notre équipe dévouée est là pour vous offrir un service exceptionnel."
+    },
+    "copyright": "Restaurant Foody. Tous droits réservés."
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "footer": {
+    "feedback_form": {
+      "feedback_title": "Feedback Form",
+      "feedback_button_title": "Send Feedback",
+      "inputs": {
+        "username": {
+          "placeholder": "Your Name",
+          "required": "Please enter your name.",
+          "maxLength": "Name cannot exceed 50 characters."
+        },
+        "email": {
+          "placeholder": "Your Email",
+          "required": "Please enter a valid email address.",
+          "pattern": "Please enter a valid email address."
+        },
+        "phone": {
+          "placeholder": "Your Phone Number",
+          "required": "Please enter your phone number.",
+          "pattern": "Phone number can only contain digits.",
+          "minLength": "Phone number must be at least 6 digits.",
+          "maxLength": "Phone number cannot exceed 15 digits."
+        },
+        "message": {
+          "placeholder": "Your Message",
+          "required": "Please enter your message.",
+          "maxLength": "Message cannot exceed 200 characters."
+        }
+      }
+    },
+    "working_hours": {
+      "title": "Working Hours",
+      "part_1": "Monday - Thursday: 11:00 AM - 10:00 PM",
+      "part_2": "Friday - Saturday: 11:00 AM - 11:00 PM",
+      "part_3": "Sunday: 12:00 PM - 9:00 PM"
+    },
+    "note": {
+      "title": "Note",
+      "description": "We are open every day to serve you delicious meals and unforgettable experiences."
+    },
+    "contact_us": {
+      "title": "Contact Us",
+      "description": "Feel free to reach out with any inquiries, reservations, or special requests. Our dedicated team is committed to providing you with exceptional service."
+    },
+    "copyright": "Foody Restaurant. All rights reserved."
+  }
+}
